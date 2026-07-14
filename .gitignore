@@ -1,6 +1,6 @@
 # raw captures and generated pipeline outputs (large binary files)
 data/*.pcap
-outputs/
+outputs/*
 
 # python
 __pycache__/
