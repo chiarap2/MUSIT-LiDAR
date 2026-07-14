@@ -1,0 +1,9 @@
+numpy
+matplotlib
+scikit-learn
+scipy
+dpkt
+pyproj
+contextily
+jupyter
+ipywidgets

@@ -1,0 +1,10 @@
+# raw captures and generated pipeline outputs (large binary files)
+data/*.pcap
+outputs/
+
+# python
+__pycache__/
+*.pyc
+
+# jupyter
+.ipynb_checkpoints/
